@@ -142,7 +142,16 @@ Example:
 ## 📚 References
 - PCIe 6.0 Specification  
 - AsicLab VLSI Academy (reference diagrams)  
-- VisualSim Architect Documentation  
+- VisualSim Architect Documentation
+
+
+📄 **Project Document:**  
+[Hackathon Challenge Submission (PDF)](https://github.com/ssbagi/Protocol_Validation/blob/main/Hackathon%20Challenge%20Submission.pdf)
+
+
+📺 **Protocol Session Video:**  
+[Watch the PCIe 6.0 Protocol Validation Session](https://youtu.be/2vTew1NotpQ?si=J4x1sNkU1jjraWwq)
+
 
 ---
 
